@@ -11,8 +11,12 @@ O CuidaCheck resolve a parte mais básica disso: garantir que as tarefas essenci
 O que o app faz
 
 -Checklist diário com tarefas de saúde, alimentação, higiene e bem-estar
+
 -Salva histórico local em JSON
+
 -Relatório semanal com porcentagem de adesão por tarefa
-- Alertas automáticos para tarefas críticas (medicação, hidratação) com baixa adesão
+
+-Alertas automáticos para tarefas críticas (medicação, hidratação) com baixa adesão
+
 -Campo de observação livre por dia
 
